@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Kotlin involving the immutability of lists created using the map function.  The `bug.kt` file shows the erroneous code that attempts to modify the immutable list returned by `map`. The `bugSolution.kt` file provides the corrected code, highlighting how to properly handle list modifications in Kotlin.
